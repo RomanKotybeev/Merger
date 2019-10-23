@@ -21,8 +21,11 @@
 4. остальные параметры – имена входных файлов, не менее одного.
 
 Примеры запуска из командной строки для Windows:
+
 java -jar sort-it.jar -i -a out.txt in.txt (для целых чисел по возрастанию)
+
 java -jar sort-it.jar -s out.txt in1.txt in2.txt in3.txt (для строк по возрастанию)
+
 java -jar sort-it.jar -d -s out.txt in1.txt in2.txt (для строк по убыванию)
 
 
